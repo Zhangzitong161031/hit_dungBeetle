@@ -1,0 +1,27 @@
+D .
+D comp
+P 80AAB8CF again.png
+S 54EE75BD bg_01.jpg
+S F55B7FDF bg_02.jpg
+S 90FD8EAD bg_03.jpg
+S FB3A422B bg_04.jpg
+S 369E846A bg_05.jpg
+P F546D4A9 blood_bg.png
+P 75D2AFB1 blood_ico.png
+P AB5F1B67 bright.png
+P EE9C8A33 food.png
+P E9D05509 hit_effect.png
+P 512E400B homeBtn.png
+P ABAFCDE9 killAll.png
+P B2B51654 lose_hp.png
+P 806D3D3C lv1_die.png
+P 16B706AF lv2_die.png
+P 16FB386A rankBtn.png
+P 1E2AB5E4 remaining_hp.png
+P 474B5670 retryBtn.png
+P 937D5BD5 score_reduce.png
+P 17175D99 shareBtn.png
+P 00CCE96D shareBtn2.png
+P A214A7B4 shoe.png
+P AAB1646A startBtn.png
+P CF5B765C timer.png
